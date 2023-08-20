@@ -3,11 +3,9 @@
 
 ## Table of Content
 
-### Easy
+  ### Easy
 
-* PyTimer
-
-
+  * PyTimer
 
 
 
@@ -16,7 +14,9 @@
 
 
 
-PyTimer
+
+
+## PyTimer
 
 **AIM** The aim of the "PyTimer" project is to provide a simple tool for measure and analyze the execution time of code.
 
